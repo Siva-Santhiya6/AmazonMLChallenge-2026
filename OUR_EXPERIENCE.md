@@ -48,7 +48,7 @@ This was a memorable result for our team and gave us confidence that the techniq
 
 ### Rank Screenshot
 
-> **[INSERT RANK SCREENSHOT HERE]**
+![Our Rank](rank.jpeg)
 
 *Our final Amazon ML Challenge 2026 ranking.*
 
