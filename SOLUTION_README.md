@@ -9,7 +9,7 @@
 
 ## 📊 Executive Summary & Team Status
 
-| Metric / Dimension | Target / Baseline | Team Resolver Hybrid Solution | Status |
+| Metric / Dimension | Target / Baseline | Our Hybrid Solution | Status |
 | :--- | :---: | :---: | :---: |
 | **Validation Macro-$F_{0.5}$ Score** | ~0.752 (Initial) / 0.9450 (Baseline) | **0.9615** | 🚀 **Top-Tier Performance** |
 | **Validation Match Precision** | ~85.0% | **97.45%** | 🎯 **High Precision ($2\times$ Weighted)** |
