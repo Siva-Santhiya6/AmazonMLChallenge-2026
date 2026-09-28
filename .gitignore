@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Datasets (> 100MB, cannot be pushed to GitHub)
+dataset/
+*.tsv
+*.csv
+*.tar.gz
+*.zip
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+4))
+powershell.bat
+powershell.cmd
