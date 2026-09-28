@@ -70,6 +70,4 @@ This challenge helped us gain practical experience in:
 
 More importantly, we learned that building a good ML solution is an iterative process. The final result came from trying different ideas, analyzing their results, learning from unsuccessful approaches, and combining the techniques that worked best.
 
-We are grateful for the experience and proud of what we achieved together as **Team Shadow Titans**.
-
 **Sivasanthiya • Saumya • Reya Immaculate**
